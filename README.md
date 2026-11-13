@@ -145,9 +145,9 @@ The web interface will open automatically at **`http://localhost:8501`**.
 
 ## 7. Future Roadmap
 
-* [ ] **Bulk Survey CSV Processing:** Asynchronous batch classification pipeline for large-scale enterprise survey datasets.
-* [ ] **Hybrid Vector + LLM Retrieval:** Pre-filter top-20 candidate NIC nodes via dense embeddings before Llama re-ranking to reduce token latency.
-* [ ] **REST API Microservice:** Expose a FastAPI endpoint for direct integration into state MSME and municipal licensing portals.
+ **Bulk Survey CSV Processing:** Asynchronous batch classification pipeline for large-scale enterprise survey datasets.
+ **Hybrid Vector + LLM Retrieval:** Pre-filter top-20 candidate NIC nodes via dense embeddings before Llama re-ranking to reduce token latency.
+ **REST API Microservice:** Expose a FastAPI endpoint for direct integration into state MSME and municipal licensing portals.
 
 ---
 
